@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T00:26:50.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="ODC3558Nzjq9KfQeTjOz" version="12.9.14" type="github"><diagram id="ZSbahE-xiw7z3sh4ef3s" name="Page-1">7VnbctowEP0aHs34xu2RAE7bSabMZDrtW0fYwlZjaz2y3OB8fVe2jDFOaNokkLTwANLRSivtHh1ZpufMks2lIGl0DQGNe7YZbHrOvGfbtmMO8UchRYWMVE0BoWBBBVkNcMPuqQZNjeYsoFnLUALEkqVt0AfOqS9bGBEC7tpma4jbXlMS0g5w45O4i35lgYwqdDwwG/wDZWFUe7ZM3ZKQ2lgDWUQCuNuBnEXPmQkAWZWSzYzGKnh1XKp+3iOt24kJyuVTOiy+LT9tPo7TdDwr7uff3Vu4zQ2nGuUniXO9YD1ZWdQRoAEGRFdByAhC4CReNOiFgJwHVLkxsdbYXAGkCFoI/qBSFjq7JJeAUCSTWLdWPpWjR9emoQxy4dMDC6o5QkRI5QE7e5sBpC6FhEpRYD9BYyLZz/Y8iOZQuLVrwowFHek/iPrgf426+8yol12nQpBixyAFxmW2M/JSAWigRWjkutWIWoKcgbuXwWrEJp/bqf19iq1Oiq/9S1b2+8JxqSJjsuhkHTUiVUWWlLK0my3sIhnq0jRmIUdMqixv0SuyovEScFAGqnUFUkKCBrFquCD+bVjyZQYxiNKXsy4/aFI6m2ZpJZ+KTKSurNlGMexCz2ceSal0d6qCZ3t+wN0+Q+VdM2Si6Pvo0fYCIgn+KByT4tEsQzoxEhskTVVYPAuPBA9ESDi7J2q+hh8RIY1MityXuaDGCogIDMse91Me6kDiQunmMFG7xNIdBq7VYoA90Zp810g6equwaFfOa/DFJcDt8GNOU0VaWOPXMioylVYs3viMcp9mZ64chyvDsdniijsZn5or9kGuLHjIOKWC1cs/c+S1OeJM3hxHxv/aI8XwiY8Uo1M+yA07UZ8B90EEjJwP+hNszO3t6+0c9KOD4t3v98/cOA433Den2fU7jner0ZNnau/D9zVrtLeJ63o9RHUm6F57OXiJq5t1TssDaRnua+uR0zLpCOkloCDwhJaz/FwetWrXnlX1mI/Cw/bVenjyA9fqXq3fPxnM35JhlWd4DcwyIyEcB1G7wrDUtcCzB4oVK8MdvORpundNdqxXTDxWm/fklZ40/zY4i18=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-27T00:27:10.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Kw6Bq2SdUi7ZhrvGFHei" version="12.9.14" type="github">
+  <diagram id="ZSbahE-xiw7z3sh4ef3s" name="Page-1">
+    <mxGraphModel dx="2306" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EXPJxI8pp8CyzD_4koku-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EXPJxI8pp8CyzD_4koku-1" target="EXPJxI8pp8CyzD_4koku-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EXPJxI8pp8CyzD_4koku-1" target="EXPJxI8pp8CyzD_4koku-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="744" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-1" value="McGill University" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png" parent="1" vertex="1">
+          <mxGeometry x="541" y="290" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-4" value="Dept of Physical Sciences" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png" parent="1" vertex="1">
+          <mxGeometry x="680" y="498" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-2" value="Dept of Engineering" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png" parent="1" vertex="1">
+          <mxGeometry x="390" y="498" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EXPJxI8pp8CyzD_4koku-6" target="EXPJxI8pp8CyzD_4koku-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-6" value="Concordia University" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png" parent="1" vertex="1">
+          <mxGeometry x="100" y="290" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-7" value="Dept of ..." style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png" parent="1" vertex="1">
+          <mxGeometry x="40" y="498" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EXPJxI8pp8CyzD_4koku-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EXPJxI8pp8CyzD_4koku-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXPJxI8pp8CyzD_4koku-9" value="Government Oversight ..." style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/organization-chart-structure-board-128.png" parent="1" vertex="1">
+          <mxGeometry x="361" y="60" width="128" height="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
